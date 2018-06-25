@@ -111,4 +111,4 @@ workflows:
     - build:
         filters:
           tags:
-            ignore: /^v.*/
+            ignore: /^$/
