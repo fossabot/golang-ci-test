@@ -1,5 +1,6 @@
 # dellhw_exporter
-[![CircleCI branch](https://img.shields.io/circleci/project/github/galexrt/dellhw_exporter/master.svg)]() [![Docker Repository on Quay](https://quay.io/repository/galexrt/dellhw_exporter/status "Docker Repository on Quay")](https://quay.io/repository/galexrt/dellhw_exporter) [![Go Report Card](https://goreportcard.com/badge/github.com/galexrt/dellhw_exporter)](https://goreportcard.com/report/github.com/galexrt/dellhw_exporter)
+[![CircleCI branch](https://img.shields.io/circleci/project/github/galexrt/dellhw_exporter/master.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgalexrt%2Fgolang-ci-test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgalexrt%2Fgolang-ci-test?ref=badge_shield)
+() [![Docker Repository on Quay](https://quay.io/repository/galexrt/dellhw_exporter/status "Docker Repository on Quay")](https://quay.io/repository/galexrt/dellhw_exporter) [![Go Report Card](https://goreportcard.com/badge/github.com/galexrt/dellhw_exporter)](https://goreportcard.com/report/github.com/galexrt/dellhw_exporter)
 
 Prometheus exporter for Dell Hardware components using OMSA.
 
@@ -106,3 +107,7 @@ Checkout the files in the [`contrib/monitoring/`](contrib/monitoring/) directory
 ## Development
 ### Dependencies
 `dep` is used for vendoring the dependencies.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgalexrt%2Fgolang-ci-test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgalexrt%2Fgolang-ci-test?ref=badge_large)
